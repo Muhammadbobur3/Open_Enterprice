@@ -10,3 +10,26 @@
   max-width: 1440px;
   margin: 0 auto;
 }
+
+.nav {
+  margin-top: 40px;
+  display: flex;
+  justify-content: space-between;
+  padding-left: 56px;
+  padding-right: 56px;
+}
+.nav__logo {
+  display: flex;
+  gap: 8px;
+}
+.nav__h2 {
+  font-size: 32px;
+}
+.nav__ul {
+  font-size: 20px;
+  display: flex;
+  gap: 40px;
+}
+.Nav__li {
+  color: #71A894;
+}
